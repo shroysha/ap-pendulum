@@ -1,7 +1,7 @@
 # ap-pendulum
 
 ## Description
-null
+Pendumlum assignment given in AP Computer Science
 
 ### Tags
 [Java, Application]
